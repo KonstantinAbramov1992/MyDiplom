@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+a {
+    text-decoration: none;
+    transition: all 0.6s ease;
+    color: coral;
+}
+a:hover {
+    color: #333333;
+}
+
+.logo {
+    width: 100%;
+    height: auto;
+}
+
+.footer {
+    height: 50px;
+}
+
+.footer > div > i {
+    margin-right: 20px;
+}
+
+.header > div > p, .menu {
+    margin-top: 25px;
+}
+
+.menu > a {
+    margin-left: 15px;
+}
+
+.menu {
+    text-align: end;
+}
+
+.form-holder {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+input {
+    margin-bottom: 15px;
+}

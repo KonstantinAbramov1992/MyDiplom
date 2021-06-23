@@ -1,0 +1,6 @@
+password.txt
+composer.lock
+composer.phar
+.idea
+.git
+/vendor
